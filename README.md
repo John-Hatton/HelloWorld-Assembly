@@ -2,7 +2,7 @@
 A simple Hello World program in x86_64 Assembly
 
 
-![Alt Text](assets/BareMetal.jpg)
+![Alt Text](BareMetal.jpg)
 
 
 I found this tutorial, and used it for reference.
